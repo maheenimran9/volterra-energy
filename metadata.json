@@ -1,0 +1,6 @@
+{
+  "name": "Volterra Energy",
+  "description": "Intelligent residential and commercial solar, battery storage, smart HVAC, and home energy management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
